@@ -4,3 +4,6 @@
 ### Descripción
 Este proyecto recopila información en audio y texto de pacientes las cuales contienen descripciones de los sintomas que presentan, con el proposito de determinar el tipo de dolencia que tiene exactamente.
 
+### Objetivos
+* Clasificar dolencias a partir de texto
+* Clasificar dolencias a paritr de audio
