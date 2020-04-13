@@ -7,3 +7,9 @@ Este proyecto recopila información en audio y texto de pacientes las cuales con
 ### Objetivos
 * Clasificar dolencias a partir de texto
 * Clasificar dolencias a paritr de audio
+
+### Dataset
+* 6661 registros de texto y de audio, con un total de 25 clases distintas para clasificar.
+
+### Modelos
+* Redes neuronales con Tensorflow y Fastai.
