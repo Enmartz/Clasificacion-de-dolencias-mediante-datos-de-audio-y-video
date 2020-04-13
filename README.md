@@ -1,2 +1,6 @@
-# IA-2019-2-Proyecto-Final
-Este es un proyecto de inteligencia artificial desarrollado con el proposito de clasificar descripciones de audio y texto de personas las cuales necesitan hacer consulta médica, esta clasificación se realiza con redes neuronales con el propósito
+# Identificación de dolencias a partir de información dada en audio y texto
+<img src="Banner/bannerProyecto.jpg" style="width:100%;">
+
+Descripción
+Este proyecto recopila información en audio y texto de pacientes las cuales contienen descripciones de los sintomas que presentan, con el proposito de determinar el tipo de dolencia que tiene exactamente.
+
