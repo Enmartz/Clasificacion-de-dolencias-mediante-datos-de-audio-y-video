@@ -1,0 +1,3 @@
+Como no se puede importar tanta información a un repositorio común de GitHub, se comparte directamente el sitio web de donde se obtuvo eld ataset:
+
+https://www.figure-eight.com/dataset/audio-recording-and-transcription-for-medical-scenarios/
